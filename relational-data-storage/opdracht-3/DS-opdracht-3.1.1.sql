@@ -1,0 +1,1 @@
+SELECT * FROM mhl.mhl_cities;
