@@ -1,0 +1,13 @@
+CREATE VIEW v_maanden (id, name) AS 
+SELECT 1,'januari'
+UNION SELECT 2,'februari'
+UNION SELECT 3,'maart'
+UNION SELECT 4,'april'
+UNION SELECT 5,'mei'
+UNION SELECT 6,'juni'
+UNION SELECT 7,'juli'
+UNION SELECT 8,'augustus'
+UNION SELECT 9,'september'
+UNION SELECT 10, 'oktober'
+UNION SELECT 11,'november'
+UNION SELECT 12,'december'
